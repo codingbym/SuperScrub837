@@ -1,5 +1,0 @@
-   at System.Net.Mail.SmtpClient.Send(MailMessage message)
-   at SuperScrub837.About.sendEMail(Object sender, RoutedEventArgs e) in C:\Users\KO054202\Documents\GitHub\SuperScrub837\SuperScrub837\SuperScrub837\About.xaml.cs:line 78   at System.Net.Mail.SmtpClient.Send(MailMessage message)
-   at SuperScrub837.About.sendEMail(Object sender, RoutedEventArgs e) in C:\Users\KO054202\Documents\GitHub\SuperScrub837\SuperScrub837\SuperScrub837\About.xaml.cs:line 78   at System.Net.Mail.SmtpClient.Send(MailMessage message)
-   at SuperScrub837.About.sendEMail(Object sender, RoutedEventArgs e) in C:\Users\KO054202\Documents\GitHub\SuperScrub837\SuperScrub837\SuperScrub837\About.xaml.cs:line 78   at System.Net.Mail.SmtpClient.Send(MailMessage message)
-   at SuperScrub837.About.sendEMail(Object sender, RoutedEventArgs e) in C:\Users\KO054202\Documents\GitHub\SuperScrub837\SuperScrub837\SuperScrub837\About.xaml.cs:line 78
