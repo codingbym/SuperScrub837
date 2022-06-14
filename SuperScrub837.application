@@ -3,7 +3,7 @@
   <assemblyIdentity name="SuperScrub837.application" version="1.0.0.12" publicKeyToken="e29ca0f7cd100672" language="neutral" processorArchitecture="msil" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <description asmv2:publisher="SuperScrub837" asmv2:product="SuperScrub837" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true">
-    <deploymentProvider codebase="file:///C:/Users/MP069189/OneDrive%20-%20Cerner%20Corporation/Documents/SuperScrub837-master/SuperScrub837-master/SuperScrub837/SuperScrub837/publish/SuperScrub837.application" />
+    <deploymentProvider codebase="https://github.com/codingbym/SuperScrub837/blob/e4653375376ee9c7825b73a4c90d2ba3eb802525/SuperScrub837.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
